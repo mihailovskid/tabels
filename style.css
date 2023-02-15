@@ -1,0 +1,68 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    text-align: center;
+    color: rgb(97, 65, 65);
+}
+p {
+    background-color: rgb(87, 236, 236);
+    text-align: center;
+    width: 100px;
+    margin: auto;
+    padding: 7px;
+}
+tr {
+    text-align: center;
+}
+.example1 table {
+    width: 450px;
+    height: 350px;
+    margin: auto;
+}
+.example1 table {
+    border: solid rgb(73, 73, 73) 1px;
+}
+.example1  tr td {
+    border: solid rgb(73, 73, 73) 1px;
+}
+.example2 table {
+    width: 400px;
+    height: 450px;
+    margin: auto;
+} 
+.example2 table {
+    border: solid rgb(141, 137, 137) 1px;
+}
+.example2 td {
+    width: 50px;
+}
+.example2 tr td {
+    border: solid black 1px;
+}
+.example3 table {
+    width: 350px;
+    height: 200px;
+    margin: auto;
+    border: solid black 1px;
+    border-spacing: 0;
+}
+.example3 tr td {
+    border: solid black 1px;
+    font-weight: bold;
+}
+.example4 table {
+    width: 700px;
+    height: 300px;
+    margin: auto;
+    border: solid rgb(85, 85, 85) 1px;
+    border-spacing: 0;
+}
+.example4 tr td {
+    border: solid rgb(85, 85, 85) 1px;
+    font-weight: bold;
+}
+.example4 td {
+    font-size: 80%;
+    font-weight: bold;
+}
